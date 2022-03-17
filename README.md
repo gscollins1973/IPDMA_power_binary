@@ -16,3 +16,6 @@ solution for Fisher’s information matrix from a logistic regression model. Ste
 estimate from the planned IPDMA (equal to the inverse of the sum of the inverse trial variances from step one), and step three 
 calculates the corresponding power based on a two-sided Wald test. Stata and R code are provided, and two examples given for 
 illustration. Extension to allow for between-study heterogeneity is also considered.
+
+IPDAMA_SS_binary.R : binary covariate
+IPDAMA_SS_continuous.R : continuous covariate
