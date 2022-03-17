@@ -17,5 +17,5 @@ estimate from the planned IPDMA (equal to the inverse of the sum of the inverse 
 calculates the corresponding power based on a two-sided Wald test. Stata and R code are provided, and two examples given for 
 illustration. Extension to allow for between-study heterogeneity is also considered.
 
-IPDAMA_SS_binary.R : binary covariate
-IPDAMA_SS_continuous.R : continuous covariate
+(1) IPDAMA_SS_binary.R : binary covariate
+(2) IPDAMA_SS_continuous.R : continuous covariate
